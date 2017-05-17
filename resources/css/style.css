@@ -19,7 +19,7 @@ html {
 }
 
 header {
-  background-image:linear-gradient(rgba(0, 0, 0, 0.7), #000), url(img/hero.jpg);
+  background-image:linear-gradient(rgba(34, 34, 34, 0.7), #000), url(img/hero.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -27,7 +27,7 @@ header {
 
 .hero-text-box {
   position: absolute;
-  width: 1140px;
+  width: 100%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
